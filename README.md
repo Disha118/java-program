@@ -1,4 +1,4 @@
 # java-program
-This is my java lab program 1.
+This is my java lab programs
 DishaShetty.
 NNM24IS077.
